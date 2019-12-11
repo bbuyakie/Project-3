@@ -1,0 +1,33 @@
+.headtext1{
+	text-align: center;
+	font-family: Didot, serif;
+	font-size: 200%;
+	border-bottom-style: double;
+}
+
+.headline1{
+	text-align: center;
+	font-family: Times New Roman, serif;
+	font-size: 150%;
+	padding-left: 150px;
+	padding-right: 150px;
+
+}
+
+.byline1{
+	padding-left: 180px;
+	font-family: Roboto,sans-serif;
+	color: black;
+	font-size:57%;
+}
+
+.body{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.chart1{
+	display: block;
+	width: 75%;
+	padding-left: 180px;
+}
