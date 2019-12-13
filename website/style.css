@@ -26,6 +26,25 @@
 	padding-right: 200px;
 }
 
+.image1{
+	display: block;
+	width: 75%;
+	padding-left: 250px;
+}
+
+.byline2{
+	padding-left:250px;
+	font-family: Roboto, sans-serif;
+	color:black;
+	font-size: 57%;
+}
+
+.caption{
+	font-size: 80%;
+	padding-left: 250px;
+	padding-right: 50px;
+}
+
 .chart1{
 	display: block;
 	width: 75%;
